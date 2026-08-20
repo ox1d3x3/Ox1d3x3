@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=00F0FF&center=true&vCenter=true&width=600&lines=studying+cybersec;working+in+IT;breaking+things+on+purpose" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=00F0FF&center=true&vCenter=true&width=600&lines=%3E+studying+cybersec;%3E+working+in+IT;%3E+breaking+things+on+purpose" alt="" />
 
 <br>
 
@@ -10,25 +10,6 @@
 <img src="https://img.shields.io/badge/Android-0D1117?style=flat-square&logo=android&logoColor=00F0FF" alt="Android"/>
 
 </div>
-
----
-
-### `> whoami`
-
-```console
-$ whoami
-ox1d3x3
-
-$ cat ./focus
-cybersec  ..... studying
-IT        ..... working
-routers   ..... theming
-windows   ..... utilities in C#
-android   ..... kernels, debloating
-
-$ uptime
-still up, still breaking things on purpose
-```
 
 ---
 
