@@ -27,14 +27,14 @@
 
 ### Projects
 
-| repo | what it is |
-|---|---|
-| **[cleanwrt-luci](https://github.com/ox1d3x3/cleanwrt-luci)** | Clean LuCI theme for OpenWrt |
-| **[uniwrt-luci](https://github.com/ox1d3x3/uniwrt-luci)** | LuCI theme inspired by UniFi OS |
-| **[gunwall](https://github.com/ox1d3x3/gunwall)** | Windows firewall front-end |
-| **[mem-booster](https://github.com/ox1d3x3/mem-booster)** | Quick memory reclaim tool for Windows |
-| **[op-debloat](https://github.com/ox1d3x3/op-debloat)** | Oppo/OnePlus debloater and ad remover |
-| **[Op13_Susfs_kernel](https://github.com/ox1d3x3/Op13_Susfs_kernel)** | Automated GKI kernel builder — SukiSU Ultra + SUSFS |
+| repo | what it is | stars | last commit |
+|---|---|---|---|
+| **[cleanwrt-luci](https://github.com/Ox1d3x3/cleanwrt-luci)** | Clean LuCI theme for OpenWrt | ![](https://img.shields.io/github/stars/Ox1d3x3/cleanwrt-luci?style=flat-square&labelColor=0D1117&color=00F0FF&label=) | ![](https://img.shields.io/github/last-commit/Ox1d3x3/cleanwrt-luci?style=flat-square&labelColor=0D1117&color=7B2FFF&label=) |
+| **[uniwrt-luci](https://github.com/Ox1d3x3/uniwrt-luci)** | LuCI theme inspired by UniFi OS | ![](https://img.shields.io/github/stars/Ox1d3x3/uniwrt-luci?style=flat-square&labelColor=0D1117&color=00F0FF&label=) | ![](https://img.shields.io/github/last-commit/Ox1d3x3/uniwrt-luci?style=flat-square&labelColor=0D1117&color=7B2FFF&label=) |
+| **[gunwall](https://github.com/Ox1d3x3/gunwall)** | Windows firewall front-end | ![](https://img.shields.io/github/stars/Ox1d3x3/gunwall?style=flat-square&labelColor=0D1117&color=00F0FF&label=) | ![](https://img.shields.io/github/last-commit/Ox1d3x3/gunwall?style=flat-square&labelColor=0D1117&color=7B2FFF&label=) |
+| **[mem-booster](https://github.com/Ox1d3x3/mem-booster)** | Quick memory reclaim tool for Windows | ![](https://img.shields.io/github/stars/Ox1d3x3/mem-booster?style=flat-square&labelColor=0D1117&color=00F0FF&label=) | ![](https://img.shields.io/github/last-commit/Ox1d3x3/mem-booster?style=flat-square&labelColor=0D1117&color=7B2FFF&label=) |
+| **[op-debloat](https://github.com/Ox1d3x3/op-debloat)** | Oppo/OnePlus debloater and ad remover | ![](https://img.shields.io/github/stars/Ox1d3x3/op-debloat?style=flat-square&labelColor=0D1117&color=00F0FF&label=) | ![](https://img.shields.io/github/last-commit/Ox1d3x3/op-debloat?style=flat-square&labelColor=0D1117&color=7B2FFF&label=) |
+| **[Op13_Susfs_kernel](https://github.com/Ox1d3x3/Op13_Susfs_kernel)** | Automated GKI kernel builder — SukiSU Ultra + SUSFS | ![](https://img.shields.io/github/stars/Ox1d3x3/Op13_Susfs_kernel?style=flat-square&labelColor=0D1117&color=00F0FF&label=) | ![](https://img.shields.io/github/last-commit/Ox1d3x3/Op13_Susfs_kernel?style=flat-square&labelColor=0D1117&color=7B2FFF&label=) |
 
 ---
 
