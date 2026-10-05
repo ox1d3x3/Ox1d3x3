@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/OpenWrt-0D1117?style=flat-square&logo=openwrt&logoColor=FF2E97" alt="OpenWrt"/>
 <img src="https://img.shields.io/badge/Android-0D1117?style=flat-square&logo=android&logoColor=00F0FF" alt="Android"/>
 <a href="https://ko-fi.com/mahabubsubhany"><img src="https://img.shields.io/badge/ko--fi-0D1117?style=flat-square&logo=kofi&logoColor=FF5E5B" alt="Ko-fi"/></a>
+<a href="https://paypal.me/mason7gg"><img src="https://img.shields.io/badge/paypal-0D1117?style=flat-square&logo=paypal&logoColor=00457C" alt="PayPal"/></a>
 
 </div>
 
@@ -43,6 +44,6 @@
 
 <div align="center">
 
-<sub>if something here saved you time &mdash; <a href="https://ko-fi.com/mahabubsubhany">buy me a coffee</a></sub>
+<sub>if something here saved you time &mdash; <a href="https://ko-fi.com/mahabubsubhany">ko-fi</a> &middot; <a href="https://paypal.me/mason7gg">paypal</a></sub>
 
 </div>
