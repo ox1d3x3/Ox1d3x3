@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=7B2FFF" alt="C#"/>
 <img src="https://img.shields.io/badge/OpenWrt-0D1117?style=flat-square&logo=openwrt&logoColor=FF2E97" alt="OpenWrt"/>
 <img src="https://img.shields.io/badge/Android-0D1117?style=flat-square&logo=android&logoColor=00F0FF" alt="Android"/>
+<a href="https://ko-fi.com/mahabubsubhany"><img src="https://img.shields.io/badge/ko--fi-0D1117?style=flat-square&logo=kofi&logoColor=FF5E5B" alt="Ko-fi"/></a>
 
 </div>
 
@@ -37,3 +38,11 @@
 | **[mem-booster](https://github.com/Ox1d3x3/mem-booster)** | Quick memory reclaim tool for Windows | ![](https://img.shields.io/github/stars/Ox1d3x3/mem-booster?style=flat-square&labelColor=0D1117&color=C2410C&label=) | ![](https://img.shields.io/github/last-commit/Ox1d3x3/mem-booster?style=flat-square&labelColor=0D1117&color=7B2FFF&label=) |
 | **[op-debloat](https://github.com/Ox1d3x3/op-debloat)** | Oppo/OnePlus debloater and ad remover | ![](https://img.shields.io/github/stars/Ox1d3x3/op-debloat?style=flat-square&labelColor=0D1117&color=C2410C&label=) | ![](https://img.shields.io/github/last-commit/Ox1d3x3/op-debloat?style=flat-square&labelColor=0D1117&color=7B2FFF&label=) |
 | **[Op13_Susfs_kernel](https://github.com/Ox1d3x3/Op13_Susfs_kernel)** | Automated GKI kernel builder — SukiSU Ultra + SUSFS | ![](https://img.shields.io/github/stars/Ox1d3x3/Op13_Susfs_kernel?style=flat-square&labelColor=0D1117&color=C2410C&label=) | ![](https://img.shields.io/github/last-commit/Ox1d3x3/Op13_Susfs_kernel?style=flat-square&labelColor=0D1117&color=7B2FFF&label=) |
+
+---
+
+<div align="center">
+
+<sub>if something here saved you time &mdash; <a href="https://ko-fi.com/mahabubsubhany">buy me a coffee</a></sub>
+
+</div>
